@@ -1,0 +1,9 @@
+{
+  "ads_unites" : {
+    "NetworkAds" : "applovin",
+    "dontShowAnyAds" : "true",
+    "showInterstitial" : "true",
+    "showRewarded" : "true",
+    "showBanner" : "true"
+  }
+}
